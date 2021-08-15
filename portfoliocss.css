@@ -1,0 +1,167 @@
+a:link{
+    text-decoration: none;  
+    color:#6D9071;
+}
+a:hover{
+    color:#A4C3A7;
+}
+
+a:visited{
+    color:#6D9071;
+}
+
+/* HOMEPAGE STYLING */
+.homepage{
+    font-family: 'Andada Pro', serif;
+    color:black;
+    letter-spacing: 0.14em;
+    background-image:url("Images/leaf.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 175px;
+    }
+
+.homepagenav{
+    border: solid 2px white;
+    border-radius: 20px;
+    text-align:center;
+    width: 60%;
+    margin:auto;
+    background-color: rgba(255,255,255,0.6);
+}
+
+/* HOMEPAGE NAVIGATION STYLING */
+
+nav ul li {
+    list-style-type: none;
+    display: inline;
+    padding: 20px 15px;
+    font-size: 20px;
+}
+
+/* ABOUT ME PAGE STYLING */
+
+.aboutmenav{
+    padding: 10px;
+    border: solid 2px black;
+    border-radius: 20px;
+    text-align: center;
+    width: 65%;
+    margin:auto; 
+    font-family: 'Andada Pro', serif;
+}
+.aboutmeheader{
+    font-family: 'Andada Pro', serif;
+    text-align:center;
+}
+.aboutme{
+    background-color:#F7F7F7;
+    font-family: 'Roboto Slab', serif;
+    padding: 10px 50px 10px 50px;
+    text-align:justify;
+}
+
+.aboutmepic{
+    float: right;
+    padding:10px 50px;
+    height: 400px;
+    border-radius:40px;
+}
+/* RESUME PAGE STYLING */
+
+.resume{
+    background-color:#F7F7F7;
+    font-family: 'Roboto Slab', serif;
+    padding:10px 50px 10px 50px;
+}
+
+.resumenav{
+    padding: 10px;
+    border: solid 2px black;
+    border-radius: 20px;
+    text-align: center;
+    width: 65%;
+    margin:auto; 
+    font-family: 'Andada Pro', serif;
+}
+
+.resumename{
+    font-family: 'Andada Pro', serif;
+    text-align:center;
+}
+
+.resumeemail{
+    text-align:center;
+}
+
+.resumePDF{
+    border: solid 2px #6D9071;
+    border-radius: 20px;
+    padding: 5px;
+    width: 20%;
+    margin:auto;
+    text-align: center
+}
+
+/* WRITING SAMPLE PAGE STYLING */
+
+.writingsamp{
+    background-color:#F7F7F7;
+    font-family: 'Roboto Slab', serif;
+    padding:10px 50px 10px 50px;
+    text-align:justify;
+}
+
+.writingnav{
+    padding: 10px;
+    border: solid 2px black;
+    border-radius: 20px;
+    text-align: center;
+    width: 65%;
+    margin:auto; 
+    font-family: 'Andada Pro', serif;
+}
+
+.writinghead{
+    font-family: 'Andada Pro', serif;
+    text-align:center;
+}
+
+.writingintro{
+    text-align:center;
+    padding-bottom: 20px;
+}
+
+.sample{
+    border: solid 2px #6D9071;
+    border-radius: 20px;
+    padding: 5px;
+    width: 50%;
+    text-align: center;
+}
+
+/* CONTACT PAGE STYLING */
+
+.contactme{
+    background-color:#F7F7F7;
+    font-family: 'Roboto Slab', serif;
+    text-align:center;
+}
+
+.contactheader{
+    font-family: 'Andada Pro', serif;
+}
+
+.contactnav{
+    padding: 10px;
+    border: solid 2px black;
+    border-radius: 20px;
+    text-align: center;
+    width: 65%;
+    margin:auto; 
+    font-family: 'Andada Pro', serif;
+}
+
