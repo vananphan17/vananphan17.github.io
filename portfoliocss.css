@@ -130,6 +130,11 @@ nav ul li {
     text-align:center;
 }
 
+.writingsubtitle{
+    font-family: 'Andada Pro', serif;
+    text-align:left;
+}
+
 .writingintro{
     text-align:center;
     padding-bottom: 20px;
